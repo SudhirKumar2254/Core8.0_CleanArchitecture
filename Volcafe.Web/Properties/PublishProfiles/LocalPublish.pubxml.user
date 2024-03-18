@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\AgentPortalApi</_PublishTargetUrl>
+    <History>True|2024-03-18T09:28:06.7913297Z;False|2024-03-18T09:27:52.4082364+00:00;True|2024-03-18T04:09:06.2868109+00:00;True|2024-03-15T08:12:32.6912892+00:00;True|2024-03-15T08:11:37.5591289+00:00;True|2024-03-15T08:07:24.4208401+00:00;True|2024-03-15T08:03:21.7813879+00:00;True|2024-03-15T07:52:31.5860868+00:00;True|2024-03-15T07:44:06.8461408+00:00;False|2024-03-15T07:43:25.9594567+00:00;True|2024-03-15T07:20:09.4155966+00:00;False|2024-03-15T07:18:44.3840635+00:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
